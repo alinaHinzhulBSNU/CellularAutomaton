@@ -32,6 +32,6 @@ public class ManagerUI : MonoBehaviour
 
     public void UpdateGenerationText()
     {
-        generationText.text = $"Generation: {cellularAutomaton.Generation}";
+        generationText.text = $"Generation: {cellularAutomaton.Generation.ToString()}";
     }
 }

@@ -123,7 +123,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9cb1f0ef7f358ad4fbf7ebb80a200f6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colony: {fileID: 0}
   hover: {fileID: 8485563246689317872}
 --- !u!1 &8485563246689317872
 GameObject:
@@ -196,8 +195,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
-  m_Color: {r: 1, g: 0, b: 0, a: 0.5019608}
+  m_Sprite: {fileID: 21300000, guid: cd2db85cd708ab44799376194364c781, type: 3}
+  m_Color: {r: 0.6320754, g: 0.6320754, b: 0.6320754, a: 0.5019608}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

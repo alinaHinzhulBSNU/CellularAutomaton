@@ -1,5 +1,5 @@
 # CellularAutomaton
-Unity 2D simulation. Based on "Etudes for programmers" by Charles Wetherell
+Unity 2D simulation based on "Etudes for programmers" by Charles Wetherell.
 
 ## How to run this project on your computer:
 1. Select folder to store the project and run ```https://github.com/alinaHinzhulBSNU/CellularAutomaton.git```
